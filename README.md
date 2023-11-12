@@ -1,0 +1,2 @@
+# EvilAppleJuice-ESP32
+在ESP32开发板上模拟AirPods的BLE广播
